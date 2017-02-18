@@ -4,7 +4,7 @@
   "description": "A webpack plugin to create entrypoint",
   "main": "not_available.js",
   "scripts": {
-    "sample": "cd sample; webpack",
+    "sample": "cd sample && webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
